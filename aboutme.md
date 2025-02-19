@@ -13,6 +13,6 @@ My name is Martin Morgan Kusasira, I am from Kampala and I love learning new ski
 - Master in Health Data Science (2024 - present)
 
 ### Experience
-- System Administrator (2020 - 2021)
+- System Administrator, ProMedia (2020 - 2021)
 - Research assistant, M&E at MoFPED (2021 - 2022)
 - Health Information Technician, National Referral -MoH, Pediatrics  (2022 - 2024)
