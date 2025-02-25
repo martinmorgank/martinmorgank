@@ -10,7 +10,7 @@ author: ### Martin Morgan Kusasira
 
 navbar-links:
   About Me: "aboutme"
-  Example Page: "example"
+  #Example Page: "example"
 
 ################
 # --- Logo --- #
@@ -69,7 +69,7 @@ social-network-links:
 share-links-active:
   email: true
   github: true
-  youtube: true
+  youtube: false
   vk: false
 
 # How to display the link to your website in the footer
