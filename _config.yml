@@ -37,8 +37,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "greatlightm@gmail.com"
-  github: martinmorgank
-  instagram: 
+  #github: martinmorgank
+ # instagram: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
